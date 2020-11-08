@@ -1,3 +1,7 @@
+# Note from the developer
+This README is helpful so I decided to keep it as is.
+The project is not complete yet, so it's ugly and not functional, but most importantly it's ugly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
