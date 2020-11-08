@@ -1,5 +1,5 @@
 # Note from the developer
-This README is helpful so I decided to keep it as is.
+This README is helpful so I decided to keep it as it is.
 The project is not complete yet, so it's ugly and not functional, but most importantly it's ugly.
 
 # Getting Started with Create React App
