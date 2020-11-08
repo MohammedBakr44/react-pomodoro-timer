@@ -1,6 +1,10 @@
 import { useState, useEffect, useLayoutEffect } from "react";
 
 function Counter() {
+  /*
+   * TODO add a button to toggle the counter
+   * TODO add break functionality
+   */
   const [timer, setTimer] = useState(1);
   const [seconds, setSeconds] = useState(0);
   const [pomodoros, setPomodoros] = useState(0);
